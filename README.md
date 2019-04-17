@@ -1,2 +1,2 @@
 # PBmapclust
-Mapping and clustering the protein conformational space using a structural alphabet.
+Mapping and Clustering the Protein Conformational Space Using a Structural Alphabet.
