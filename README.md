@@ -1,2 +1,2 @@
-# PBmap
-Mapping and visualizing the protein conformational space using a structural alphabet.
+# PBmapclust
+Mapping and clustering the protein conformational space using a structural alphabet.
