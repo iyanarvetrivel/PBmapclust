@@ -1,0 +1,7 @@
+; Command line options of xpm2ps override the parameters in this file
+xbox                     = 10.0       ; x-size of a matrix element
+ybox                     = 10.0       ; y-size of a matrix element
+x-major                  = 20         ; Major ticks on x axis every .. frames
+x-minor                  = 5          ; Minor ticks on x axis every .. frames
+y-major                  = 20	      ; Major ticks on y axis every .. frames
+y-minor                  = 5	      ; Minor ticks on x axis every .. frames
